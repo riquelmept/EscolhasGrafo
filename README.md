@@ -18,4 +18,3 @@ Se você tiver alguma dúvida ou precisar de mais informações, entre em contat
 
 Nome: [Patrick Coelho]
 Email: [patrick.riquelme@hotmail.com]
-
