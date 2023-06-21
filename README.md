@@ -2,8 +2,7 @@
 
 Bem-vindo ao repositório do Controlador de Temperatura com Arduino Mega 2560! Este projeto consiste em um controlador de temperatura utilizando a placa Arduino Mega 2560. Ele permite monitorar e controlar a temperatura de um sistema com precisão.
 
-![Controlador de Temperatura](![image](https://github.com/riquelmept/EscolhasGrafo/assets/100944831/8bde8a24-4c32-4a33-857e-3dd5ad3a4e56)
-)
+!(![image](https://github.com/riquelmept/EscolhasGrafo/assets/100944831/07be69bd-b74c-4230-a519-8b4155e17eb2))
 
 ## Funcionalidades
 
