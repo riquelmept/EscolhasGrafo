@@ -16,6 +16,6 @@ Projeto referente a matéria de Informática Aplicada à Engenharia, disciplina 
 
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato:
 
-Nome: [Patrick Coelho]
+Patrick Coelho
 
-Email: [patrick.riquelme@hotmail.com]
+patrick.riquelme@hotmail.com
